@@ -1,0 +1,16 @@
+{
+  "name": "rainy-night-convenience-store",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An anime-style rainy-night Japanese convenience store diorama built with Three.js.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.9"
+  }
+}
